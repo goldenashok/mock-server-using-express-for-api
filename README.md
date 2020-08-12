@@ -1,4 +1,4 @@
-# mock-server-using-node-express
+# mock-server-using-node-express-with-rest-api
 
 # Install npm install or npm i
 
